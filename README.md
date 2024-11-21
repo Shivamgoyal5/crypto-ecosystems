@@ -103,7 +103,7 @@ If you're adding a totally new ecosystem that has no parents (e.g. Cosmos/Ethere
 2. Find the folder named the first letter of the ecosystem you're adding. Here, it's the letter `E` because our L1 is called `EasyA Chain`.
 3. Open the folder
 4. Inside the folder, create a new `.toml` file named after your L1 in kebab-case. Here, it will be called `easya-chain.toml`. The full path will now be `data/ecosystems/e/easya-chain.toml`.
-5. Add the following 2 required fields:
+5. Add the following 2 required field:
 
 ```toml
 # Required field number 1: Name of the ecosystem
